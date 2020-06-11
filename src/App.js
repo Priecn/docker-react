@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        Add stdin_open: true in compose file
         <a
           className="App-link"
           href="https://reactjs.org"
